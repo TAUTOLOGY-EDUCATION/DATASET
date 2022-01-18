@@ -1,0 +1,81 @@
+name,catagory,kcal(raw),kcal(cooked),frying method,kcal(fried)
+"pork, rib",meat,171,,fry,273
+"pork, loin",meat,141,110,fry with flour,260
+"pork, belly, with skin",meat,518,,fry,550
+"pork, ham",meat,145,195,fry with flour,232
+"pork, leg, with skin",meat,245,273,fry,325
+"beef, brisket",meat,155,225,fry,342
+"beef, flank",meat,136,178,fry with flour,268
+"beef, round",meat,168,224,fry,228
+"beef, sirloin",meat,201,244,fry,326
+"beef, rib",meat,338,,fry,362
+"lamb, brain",meat,145,,fry,273
+"lamb, loin",meat,220,,fry,270
+"lamb, liver",meat,139,,fry,238
+"goat, meat",meat,109,143,fry,153
+"chicken, neck, with skin",meat,150,179,fry with flour,327
+"chicken, breast, with skin",meat,110,165,fry with flour,222
+"chicken, wings, with skin",meat,140,152,fry with flour,324
+"chicken, thighs, with skin",meat,143,160,fry with flour,277
+"chicken, legs, with skin",meat,150,168,fry with flour,245
+"chicken, gizzard ",meat,94,154,fry with flour,222
+"chicken, heart",meat,153,175,fry,183
+"chicken, liver",meat,116,167,fry with flour,200
+"turkey, breast, with skin",meat,114,153,fry with flour,283
+"turkey, liver",meat,128,158,fry with flour,172
+"turkey, legs, with skin",meat,139,159,fry with flour,215
+"duck, breast, with skin",meat,123,194,fry,199
+"duck, thighs, with skin",meat,150,262,fry,324
+"rabbit, meat, with skin",meat,114,159,fry with flour,206
+"salmon, meat",meat,159,179,fry,218
+"tuna, meat",meat,144,138,fry with flour,229
+"catfish, with skin",meat,114,144,fry,152
+"pike, with skin",meat,88,,fry with flour,217
+"tilapia, with skin",meat,96,129,fry,169
+"crab, with skin",meat,101,136,fry with flour,333
+octopus,meat,81,164,fry with flour,496
+squid,meat,92,110,fry with flour,208
+shrimp,meat,71,138,fry with flour,308
+egg,meat,155,155,fry,196
+"frog, leg",meat,73,104,fry with flour,236
+mussels,meat,82,90,fry with flour,215
+oysters,meat,81,160,fry with flour,265
+scallop,meat,111,,fry with flour,184
+sausage,processed,212,210,fry,233
+ham,processed,135,156,fry with flour,240
+bacon,processed,417,548,fry,541
+tofu,processed,76,84,fry,271
+meatballs,processed,,158,fry,190
+dumpling,processed,130,131,fry,176
+mozzarella cheese,processed,280,,fry with flour,319
+cheddar cheese,processed,402,,fry with flour,428
+spring roll,processed,,174,fry,230
+pickle,processed,11,,fry with flour,188
+bread ,processed,,265,fry with flour,503
+dough,processed,229,,fry with flour,331
+peanut,vegetable,500,,fry,600
+seaweed ,vegetable,38,,fry,298
+carrot,vegetable,41,35,fry,71
+potato,vegetable,77,87,fry,321
+eggplant,vegetable,24,35,fry with flour,148
+banana,vegetable,89,,fry with flour,300
+cauliflower ,vegetable,25,23,fry with flour,261
+mushroom,vegetable,22,28,fry with flour,222
+onion,vegetable,40,58,fry with flour,258
+okra,vegetable,33,,fry with flour,188
+onion,vegetable,40,44,fry with flour,258
+shallot,vegetable,72,,fry with flour,400
+oyster mushroom ,vegetable,33,,fry with flour,157
+enoki mushroom,vegetable,37,,fry with flour,154
+zucchini ,vegetable,17,,fry with flour,63
+sweet poatato,vegetable,86,,fry,165
+pumpkin ,vegetable,26,,fry with flour,230
+asparagus,vegetable,21,,fry,166
+green peas,vegetable,81,,fry,400
+corn,vegetable,87,96,fry with flour,248
+broccoli,vegetable,34,54,fry with flour,148
+durian,vegetable,147,,fry,466
+plantain,vegetable,112,116,fry,236
+taro,vegetable,112,,fry,395
+cassava,vegetable,159,,fry,286
+peppers,vegetable,40,,fry,88
